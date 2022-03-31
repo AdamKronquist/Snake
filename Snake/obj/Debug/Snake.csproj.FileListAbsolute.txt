@@ -1,0 +1,21 @@
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\bin\Debug\Snake.exe
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\bin\Debug\Snake.pdb
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\obj\Debug\Snake.exe
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Inlämningsuppgft 2\Snake\Snake\obj\Debug\Snake.pdb
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.exe
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.pdb
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.exe
+C:\Adam\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.pdb
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.exe
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\bin\Debug\Snake.pdb
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.exe
+D:\Backup Adam\PC\Systemutvecklare .NET\6. Programmering, fordjupning\Snake\Snake\obj\Debug\Snake.pdb
